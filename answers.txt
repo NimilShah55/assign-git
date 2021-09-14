@@ -2,7 +2,7 @@
 Answer: A . gitignore file is a text file placed in your git repository that tells git not to track certain files and folders that you don't want being uploaded to your master repository. For java files such as Maven, .mtj.tmp/, bin, jar files etc can be ignored.
 
 •What does fast-forward in Git mean?
-Answer: When you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge together – this is called a “fast-forward.
+Answer: When you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge together – this is called a “fast-forward in Git.
 
 •Why should you have different branches?
 Answer:Branching allows each developer to branch out from the original code base and isolate their work from others. It also helps Git to easily merge versions later on
