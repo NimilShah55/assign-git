@@ -5,7 +5,7 @@ Answer: A . gitignore file is a text file placed in your git repository that tel
 Answer: When you try to merge one commit with a commit that can be reached by following the first commit’s history, Git simplifies things by moving the pointer forward because there is no divergent work to merge together – this is called a “fast-forward.
 
 •Why should you have different branches?
-Answer:Branching allows each developer to branch out from the original code base and isolate their work from others. It also helps Git to easily merge versions later on.
+Answer:Branching allows each developer to branch out from the original code base and isolate their work from others. It also helps Git to easily merge versions later on
 
 •In a project how many remote Git repositories do you usually have?
 Answer:One
